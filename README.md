@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yulesh Mahat</h1>
-<h3 align="center">A passionate fullstack developer based on Sydney.</h3>
+<h3 align="center">A fullstack developer based on Sydney.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuleshmahat" alt="yuleshmahat" /></a> </p>
 
-- 🔭 I’m currently working on **Dynamic E-Commerce**
+- 🔭 I’m currently working on a microservice for Next Zen Talent. 
 
-- 🌱 I’m currently learning **Typescript, MUI, Docker and AWS.**
+- 🌱 I’m currently learning **Typescript, TailwindCSS, Microservie pattern and AWS.**
 
-- 👯 I’m looking to collaborate on **Mobile Alarm App**
+- 👯 I’m looking to collaborate on **Fun Productive application developments**
 
 - 👨‍💻 All of my projects are available at [www.yuleshmahat.com](www.yuleshmahat.com)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **yuleshmahat2058@gmail.com**
 
-- ⚡ Fun fact **I am also a 3D artist and content-createor**
+- ⚡ Fun fact **I am also a 3D artist and a content-createor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
