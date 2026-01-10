@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yulesh Mahat</h1>
 <h3 align="center">A fullstack developer based on Sydney.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuleshmahat" alt="yuleshmahat" /></a> </p>
-
 - 🔭 I’m currently working on a microservice for Next Zen Talent. 
 
 - 🌱 I’m currently learning **Typescript, TailwindCSS, Microservie pattern and AWS.**
