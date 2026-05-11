@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yulesh Mahat</h1>
 <h3 align="center">A fullstack developer based on Sydney.</h3>
 
-- 🔭 I’m currently working on a microservice for Next Zen Talent. 
+- 🔭 Life is fun. 
 
-- 🌱 I’m currently learning **Typescript, TailwindCSS, Microservie pattern and AWS.**
-
-- 👯 I’m looking to collaborate on **Fun Productive application developments**
+- 🌱 I’m currently learning Random Tech Stuffs.
 
 - 👨‍💻 All of my projects are available at [www.yuleshmahat.com](www.yuleshmahat.com)
 
